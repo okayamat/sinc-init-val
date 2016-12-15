@@ -36,3 +36,6 @@ These programs needs GSL (Gnu Scientific Library) and CPPLapack.
 Install them first (and libraries needed to them). Then, modify
 make files according to your installation.
 
+## Results
+Outputs by those programs are stored in data/ directory, with .dat extension.
+Gnuplot programs and created eps graphs are also stored in the directory.
