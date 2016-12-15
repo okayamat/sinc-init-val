@@ -45,7 +45,7 @@ computation environment:
 * CPU: two 2.93 GHz 6-Core Intel Xeon
 * Memory: 32 GB DDR3 ECC SDRAM
 * Compiler: GCC 4.0.1
-* Libraries: GSL 1.16, CPPLapack 20050325, installed by Fink
+* Libraries: GSL 1.16, LAPACK 3.4.2, CPPLapack 20050325, installed by Fink
 
 ## References
 1. A. Nurmuhammad, M. Muhammad, M. Mori:
