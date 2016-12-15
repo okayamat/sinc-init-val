@@ -1,6 +1,6 @@
 # sinc-init-val
 Numerical solvers of initial value problems by means of Sinc methods
-====
+
 ## Overview
 These programs solve the following four initial value problems.
 
@@ -39,3 +39,10 @@ make files according to your installation.
 ## Results
 Outputs by those programs are stored in data/ directory, with .dat extension.
 Gnuplot programs and created eps graphs are also stored in the directory.
+
+computation environment:
+* OS: Mac OS X 10.6
+* CPU: two 2.93 GHz 6-Core Intel Xeon
+* Memory: 32 GB DDR3 ECC SDRAM
+* Compiler: GCC 4.0.1
+* Libraries: GSL 1.16, CPPLapack 20050325, installed by Fink
