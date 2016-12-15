@@ -28,8 +28,8 @@ Those problems are solved by means of the following 4 methods:
 * DE-Sinc-Nystroem method
 * DE-Sinc-collocation method
 
-Each program solves those problems with increasing N, and outputs
-N, computation time, and maximum error over the target interval.
+Each program solves those problems increasing N as N = 1, 9, 17, 25, ...,
+and outputs N, computation time, and maximum error over the target interval.
 
 ## How to compile
 These programs needs GSL (Gnu Scientific Library) and CPPLapack.
