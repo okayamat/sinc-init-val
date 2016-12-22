@@ -2,7 +2,7 @@
 Numerical solvers of initial value problems by means of Sinc methods
 
 ## Overview
-These programs solve the following four initial value problems.
+These programs solve the following four examples of initial value problems.
 
 (1) Find y(t) and z(t) satisfying for 0<t<2 that
 * y'(t) = z(t),   y(0) = Ai(0),
@@ -32,7 +32,7 @@ Each program solves those problems increasing N as N = 1, 9, 17, 25, ...,
 and outputs N, computation time, and maximum error over the target interval.
 
 ## How to compile
-These programs needs GSL (Gnu Scientific Library) and CPPLapack.
+These programs need GSL (Gnu Scientific Library) and CPPLapack.
 Install them first (and libraries needed to them). Then, modify
 make files according to your installation.
 
