@@ -55,4 +55,4 @@ computation environment:
 2. F. Stenger: Numerical Methods Based on Sinc and Analytic Functions,
  Springer-Verlag, New York, 1993.
 3. T. Okayama: Theoretical analysis of Sinc-collocation methods and
- Sinc-Nystöm methods for initial value problems, arXiv:1304.6508 [math.NA].
+ Sinc-Nystöm methods for initial value problems, BIT Numer. Math., in press.
