@@ -11,7 +11,7 @@ where Ai(t) is the Airy function.
 
 (2) Find y(t) and z(t) satisfying for 0<t<1 that
 * y'(t) = z(t),                 y(0) = 0,
-* z'(t) = 2 y(t) / (1 + x^2)^2, z(0) = 1.
+* z'(t) = 2 y(t) / (1 + t^2)^2, z(0) = 1.
 
 (3) Find y(t) and z(t) satisfying for 0<t<2 that
 * y'(t) = - y(t) + z(t) / (2 sqrt(t)), y(0) = 0,
